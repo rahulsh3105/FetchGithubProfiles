@@ -24,4 +24,4 @@ To use this application, follow these steps:
 - If the username is valid, the user's profile information and their five most recently created repositories will be displayed.
 
 Demo:
-- You can see a live demo of this application here.
+- You can see a live demo of this application https://rahulsh3105.github.io/FetchGithubProfiles/.
